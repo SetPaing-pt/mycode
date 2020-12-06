@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HSPI\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HSPI\\.nuget\\packages"
+    ]
+  }
+}

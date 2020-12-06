@@ -1,0 +1,10 @@
+D:\C#\WEb\bin\Debug\WEb.exe.config
+D:\C#\WEb\bin\Debug\WEb.exe
+D:\C#\WEb\bin\Debug\WEb.pdb
+D:\C#\WEb\obj\Debug\WEb.csprojAssemblyReference.cache
+D:\C#\WEb\obj\Debug\WEb.Form1.resources
+D:\C#\WEb\obj\Debug\WEb.Properties.Resources.resources
+D:\C#\WEb\obj\Debug\WEb.csproj.GenerateResource.cache
+D:\C#\WEb\obj\Debug\WEb.csproj.CoreCompileInputs.cache
+D:\C#\WEb\obj\Debug\WEb.exe
+D:\C#\WEb\obj\Debug\WEb.pdb
