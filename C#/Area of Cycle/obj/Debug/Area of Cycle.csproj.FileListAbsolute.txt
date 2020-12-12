@@ -1,0 +1,10 @@
+D:\mycode\C#\Area of Cycle\bin\Debug\Area of Cycle.exe.config
+D:\mycode\C#\Area of Cycle\bin\Debug\Area of Cycle.exe
+D:\mycode\C#\Area of Cycle\bin\Debug\Area of Cycle.pdb
+D:\mycode\C#\Area of Cycle\obj\Debug\Area of Cycle.csprojAssemblyReference.cache
+D:\mycode\C#\Area of Cycle\obj\Debug\Area_of_Cycle.Form1.resources
+D:\mycode\C#\Area of Cycle\obj\Debug\Area_of_Cycle.Properties.Resources.resources
+D:\mycode\C#\Area of Cycle\obj\Debug\Area of Cycle.csproj.GenerateResource.cache
+D:\mycode\C#\Area of Cycle\obj\Debug\Area of Cycle.csproj.CoreCompileInputs.cache
+D:\mycode\C#\Area of Cycle\obj\Debug\Area of Cycle.exe
+D:\mycode\C#\Area of Cycle\obj\Debug\Area of Cycle.pdb

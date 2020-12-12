@@ -1,0 +1,10 @@
+D:\mycode\C#\MyFirstProject\bin\Debug\MyFirstProject.exe.config
+D:\mycode\C#\MyFirstProject\bin\Debug\MyFirstProject.exe
+D:\mycode\C#\MyFirstProject\bin\Debug\MyFirstProject.pdb
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.csprojAssemblyReference.cache
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.Properties.Resources.resources
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.csproj.GenerateResource.cache
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.csproj.CoreCompileInputs.cache
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.exe
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.pdb
+D:\mycode\C#\MyFirstProject\obj\Debug\MyFirstProject.MyFirstProgram.resources
